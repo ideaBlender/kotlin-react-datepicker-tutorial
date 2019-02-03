@@ -3,9 +3,7 @@ This project was bootstrapped with [Create React Kotlin App](https://github.com/
 Below you will find some useful information on how to work with this application.<br>
 We're still working on this guide and you can find its most recent version [here](https://github.com/JetBrains/create-react-kotlin-app/blob/master/packages/react-scripts/template/README.md).
 
-## Sending Feedback
 
-We are always open to [your feedback](https://youtrack.jetbrains.com/issues/CRKA).
 
 ## Folder Structure
 
@@ -90,3 +88,11 @@ Currently, debugging is supported only in IntelliJ IDEA Ultimate 2017.3.
 
 You can also debug your application using the developer tools in your browser.
 
+
+## Link to the datepicker library
+
+ https://www.npmjs.com/package/react-datepicker
+ 
+## Watch Dan Ford's video
+
+https://www.youtube.com/watch?v=FDOECr-sT6U
