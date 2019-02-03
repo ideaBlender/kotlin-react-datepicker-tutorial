@@ -1,0 +1,21 @@
+{
+  "name": "datepicker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-datepicker": "^2.1.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "react-scripts-kotlin": "3.0.3"
+  },
+  "scripts": {
+    "start": "PORT=7000 react-scripts-kotlin start",
+    "build": "react-scripts-kotlin build",
+    "eject": "react-scripts-kotlin eject",
+    "gen-idea-libs": "react-scripts-kotlin gen-idea-libs",
+    "get-types": "react-scripts-kotlin get-types --dest=src/types",
+    "postinstall": "npm run gen-idea-libs"
+  }
+}
